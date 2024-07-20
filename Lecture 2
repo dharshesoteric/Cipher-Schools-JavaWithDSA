@@ -1,0 +1,19 @@
+Git is a type of VCS or SCM tool.
+Git is distrubted version control System. It is designed to handle minor to major project with high speed and efficiency.
+
+>>Features of git:
+  -Open source 
+  -Speed
+  -Scalability
+  -Security
+
+>>Branching and Merging are the great features of git which make it diffrent from other SCM tools.
+  Commands on git-
+  git init ( A hidden file of git has been created)
+  git status ( it shows untracked files ) (red colour)
+  git add filename
+  git status( green color)
+  git commit -m  message
+  git log (it will tell us what all commit made till now)
+  git remote add origin (link )
+  git push origin master ( file will be added to the github)
