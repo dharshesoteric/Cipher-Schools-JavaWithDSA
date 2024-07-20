@@ -1,0 +1,59 @@
+FOR LOOP CODE:
+
+public class Main{
+    public static void main(String[] args) {
+
+|        for (int i=0;i<=5;i++){
+            System.out.println("i ="+ i);
+        }
+    }
+}
+output -
+i =0
+i =1
+i =2
+i =3
+i =4
+i =5
+
+
+WHILE LOOP CODE:
+
+public class Main{
+    public static void main(String[] args) {
+
+        int n =5 ;
+        while(n>0){
+            System.out.println("i ="+ n);
+            n--;
+        }
+
+    }
+}
+
+output -
+i =5
+i =4
+i =3
+i =2
+i =1
+
+DO WHILE LOOP CODE:
+
+public class Main{
+    public static void main(String[] args) {
+
+       int n =5 ;
+       do{
+           System.out.println("i =" + n);
+           n--;
+       }while(n>0);
+
+    }
+}
+output -
+i =5
+i =4
+i =3
+i =2
+i =1
