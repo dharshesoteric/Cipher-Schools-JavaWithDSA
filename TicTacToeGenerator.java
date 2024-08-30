@@ -1,6 +1,6 @@
 import java.util.*;
  
-public class GFG {
+public class TicTacToeGenerator {
    
     static String[] board;
     static String turn;
